@@ -1,4 +1,4 @@
-# Data-Science
+# Retail Dashboard
 
 This is a dashboard with multiple interconnected idioms as follows:
 1. Bar Chart; 

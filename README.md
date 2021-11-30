@@ -9,7 +9,7 @@ This is a dashboard with multiple interconnected idioms as follows:
 6. Line Chart; 
 
 Scripting: D3
-Parent Dataset (although modified): 
+Parent Dataset (although modified): https://www.kaggle.com/frtgnn/dunnhumby-the-complete-journey?select=product.csv
 
 In accordance with the dataset, following are the questions we are trying to answer through this project:
 ● Which dept or class (of products) appealed most to the different customer age groups in 2007? or in 2008?
